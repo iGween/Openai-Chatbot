@@ -1,0 +1,4 @@
+{
+  "ignore": ["index.js"],
+  "ext": "js"
+}
